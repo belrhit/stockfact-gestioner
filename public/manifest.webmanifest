@@ -1,0 +1,12 @@
+{
+  "name": "StockFact",
+  "short_name": "StockFact",
+  "description": "Gestion de stock et facturation simple pour PME industrielles",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#1f3a8a",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
